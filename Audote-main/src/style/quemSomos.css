@@ -373,6 +373,7 @@ body {
 }
 
 .cards .card .content .img{
+    position: unset !important;
     height: 130px;
     width: 130px;
     margin-bottom: 14px;
