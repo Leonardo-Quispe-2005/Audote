@@ -131,7 +131,7 @@
                                 </div>
                                 <div class="media-icons">
                                     <a href="https://github.com/BrunoGCSousa"><i class="bi bi-github"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.linkedin.com/in/brunogcsousa"><i class="bi bi-linkedin"></i></a>
                                     <a href="https://www.instagram.com/brunogonziales/"><i class="bi bi-instagram"></i></a>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@
                                 </div>
                                 <div class="media-icons">
                                     <a href="https://github.com/cattslari"><i class="bi bi-github"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.linkedin.com/in/larissa-silva-1645a3238"><i class="bi bi-linkedin"></i></a>
                                     <a href="https://www.instagram.com/cattslari/"><i class="bi bi-instagram"></i></a>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                                 </div>
                                 <div class="media-icons">
                                     <a href="https://github.com/Leonardo-Quispe-2005"><i class="bi bi-github"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.linkedin.com/in/leonardo-quispe-4b324225a/"><i class="bi bi-linkedin"></i></a>
                                     <a href="https://www.instagram.com/leonardo_quispe/"><i class="bi bi-instagram"></i></a>
                                 </div>
                             </div>
