@@ -22,8 +22,8 @@
     <section>
         <section>
             <picture>
-                <div>
-                    <img src="src/img/dog2.png" alt="" class="cachorro">
+                <div class="cachorro">
+                    <img src="src/img/Banner-quemSomos.png" alt="">
                 </div>
             </picture>
         </section>
